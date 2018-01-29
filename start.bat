@@ -1,0 +1,2 @@
+start c:\python27\python.exe no_dev_fee.py 486RG7D38RZjF4Whu9uKygL1eNdncuLWB2KuFWs8tUj9Yu37ZxE7kZK1QNXfC2EZGkXD1L4UioA84aeAkZNpRZGvQFem4ww 14444 . 0
+exit
