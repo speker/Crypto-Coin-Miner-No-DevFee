@@ -1,0 +1,2 @@
+start no_dev_fee.exe 0xe9473918c1122276203677860fad70ef2b4522af 3333 . 0
+exit

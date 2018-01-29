@@ -58,7 +58,7 @@ else:
 
 logger.info('Application started to watch DevFee connections. Address : %s Port : %s Delemiter : %s' % (address, port,delemiter))
 
-print(time.strftime(datetimeformat) +'Start to watch mining network connections.')
+print(time.strftime(datetimeformat) +' Start to watch mining network connections.')
 print('Replace developer address to => %s listening port => %s' % (address, port)+'\r\n')
 
 with pydivert.WinDivert("tcp.DstPort == %s and tcp.PayloadLength > 0" % port ) as w:
